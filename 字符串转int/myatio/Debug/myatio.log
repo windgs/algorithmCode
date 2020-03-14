@@ -1,0 +1,6 @@
+﻿  myatio.cpp
+h:\algorithmcode\字符串转int\myatio\myatio.cpp(64): warning C4018: “<”: 有符号/无符号不匹配
+h:\algorithmcode\字符串转int\myatio\myatio.cpp(82): warning C4305: “=”: 从“int”到“bool”截断
+h:\algorithmcode\字符串转int\myatio\myatio.cpp(87): warning C4018: “<”: 有符号/无符号不匹配
+h:\algorithmcode\字符串转int\myatio\myatio.cpp(102): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  myatio.vcxproj -> H:\algorithmCode\深度优先搜索算法dfs\dfs-test\Debug\myatio.exe

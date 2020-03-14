@@ -1,0 +1,5 @@
+﻿  buildTree.cpp
+h:\algorithmcode\从前序与中序遍历序列构造二叉树\buildtree\buildtree.cpp(77): warning C4018: “<”: 有符号/无符号不匹配
+h:\algorithmcode\从前序与中序遍历序列构造二叉树\buildtree\buildtree.cpp(99): warning C4018: “<”: 有符号/无符号不匹配
+h:\algorithmcode\从前序与中序遍历序列构造二叉树\buildtree\buildtree.cpp(145): warning C4018: “<”: 有符号/无符号不匹配
+  buildTree.vcxproj -> H:\algorithmCode\深度优先搜索算法dfs\dfs-test\Debug\buildTree.exe

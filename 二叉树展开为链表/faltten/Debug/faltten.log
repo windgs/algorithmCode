@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  faltten.cpp
+h:\algorithmcode\二叉树展开为链表\faltten\faltten.cpp(87): warning C4101: “so”: 未引用的局部变量
+  faltten.vcxproj -> H:\algorithmCode\深度优先搜索算法dfs\dfs-test\Debug\faltten.exe

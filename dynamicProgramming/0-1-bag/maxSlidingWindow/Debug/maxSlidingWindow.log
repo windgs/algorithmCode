@@ -1,0 +1,3 @@
+﻿  maxSlidingWindow.cpp
+h:\algorithmcode\dynamicprogramming\0-1-bag\maxslidingwindow\maxslidingwindow.cpp(13): error C2561: “maxSlidingWindow”: 函数必须返回值
+  h:\algorithmcode\dynamicprogramming\0-1-bag\maxslidingwindow\maxslidingwindow.cpp(8): note: 参见“maxSlidingWindow”的声明

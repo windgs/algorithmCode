@@ -1,0 +1,5 @@
+﻿  最长子序列-LCS.cpp
+h:\algorithmcode\longestcommonsubsequence\最长子序列-lcs\最长子序列-lcs.cpp(146): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+h:\algorithmcode\longestcommonsubsequence\最长子序列-lcs\最长子序列-lcs.cpp(155): warning C4018: “<=”: 有符号/无符号不匹配
+h:\algorithmcode\longestcommonsubsequence\最长子序列-lcs\最长子序列-lcs.cpp(157): warning C4018: “<=”: 有符号/无符号不匹配
+  最长子序列-LCS.vcxproj -> H:\algorithmCode\深度优先搜索算法dfs\dfs-test\Debug\最长子序列-LCS.exe
